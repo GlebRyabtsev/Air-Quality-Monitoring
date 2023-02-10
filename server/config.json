@@ -1,0 +1,9 @@
+{
+  "access_token": "<Particle API Acess Token>",
+  "devices": [
+    {
+      "id": "<Particle Device ID>",
+      "name": "<Device Name>"
+    }
+  ]
+}
